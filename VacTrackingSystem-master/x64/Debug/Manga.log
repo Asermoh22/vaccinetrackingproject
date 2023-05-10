@@ -1,0 +1,4 @@
+﻿  user.cpp
+C:\Users\20112\source\repos\VacTrackingSystem-master\user.cpp(296): warning C4715: 'user::validateNaID': not all control paths return a value
+C:\Users\20112\source\repos\VacTrackingSystem-master\user.cpp(313): warning C4715: 'user::validatePassword': not all control paths return a value
+  Manga.vcxproj -> C:\Users\20112\source\repos\VacTrackingSystem-master\x64\Debug\Manga.exe
